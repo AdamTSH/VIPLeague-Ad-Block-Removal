@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VIPLeague Ad-Block-Removal
-// @version      0.1
+// @version      0.1.1
 // @description  Remove adblock message
 // @match        http://www.vipleague.is/*
 // @grant        none
